@@ -1,0 +1,18 @@
+{
+  "author" : "CowedOffACliff(AKA Mostly Alone)",
+  "dependencies" : ["Themed Colony Deeds"],
+  "description" : "Adds Colony Tweaks compatability to Themed Deeds. Requires Themed Deeds and Colony Tweaks to be loaded first; patches Themed Deeds objects to use lua scripts used in Colony Tweaks to allow for modified rent and Wired Deeds functionality.\n\n[h1]WARNING[/h1]\nNot compatabile with Wired Colony Deeds or the Wired Colony Deeds addon for Themed Deeds. If either of these mods is installed it [i][b]will[/b][/i] cause a crash and possibliy world corruption.\n[h1]YOU HAVE BEEN WARNED[/h1]",
+  "friendlyName" : "Colony Tweaks Themed Deeds Addon",
+  "link" : "steam://url/CommunityFilePage/756738410",
+  "metadata" : {
+    "author" : "themrpiggy22, CowedOffACliff",
+    "description" : "Makes deeds added by Themed Colony Deeds use the scripts used by the Colony Tweaks mod to modify rent systems.",
+    "priority" : 200,
+    "version" : "1.0"
+  },
+  "name" : "colony_tweaks_themed_deeds_addon",
+  "path" : ".",
+  "requires" : ["Themed Colony Deeds"],
+  "steamContentId" : "756738410",
+  "version" : "1.0"
+}
